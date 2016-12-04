@@ -1,0 +1,16 @@
+
+* Les packages proposés (*.ads) le sont a titre INDICATIF.
+Vous pouvez les modifier (packages, spécifications des procédures, ...)
+a volonté selon vos besoins, ou ne pas les utiliser du tout!
+
+* Un Makefile est fourni (qui ne fonctionnera qu'une fois les .adb écrits).
+A modifier si vous rajoutez des fichiers dans votre projet.
+
+* exemple_io.adb donne une méthode pour faire des lectures/écritures dans
+des fichiers en Ada
+
+* Le repertoire Tests contient quelques fichiers test et un script qui lance
+la compression d'un fichier, le décompresse, et compare le résultat avec le
+fichier initial.
+A vous de compléter ces tests avec vos propres fichiers.
+

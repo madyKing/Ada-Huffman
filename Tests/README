@@ -1,0 +1,9 @@
+Utilisation:  ./tests_huffman <FICHIER TEXTE A COMPRESSER PUIS DECOMPRESSER>
+Compresse un fichier, décompresse le fichier compressé, puis vérifie que le
+résultat est identique au fichier initial.
+
+Pour d'autres fichier test, par exemple: www.gutenberg.org
+(il est important de s'approcher de conditions asymptotiques,
+i.e. un très grand nombre de caractères. Vous pourrez alors
+comparer les couts théoriques est expérimentaux).
+
